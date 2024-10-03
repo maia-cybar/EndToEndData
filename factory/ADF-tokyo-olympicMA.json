@@ -1,0 +1,9 @@
+{
+	"name": "ADF-tokyo-olympicMA",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "47cae680-f2c3-40d7-81d2-2d61d3b79c2f",
+		"tenantId": "5f5fa46f-b703-439e-86d5-74aea369d430"
+	}
+}
